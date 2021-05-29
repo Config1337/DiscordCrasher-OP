@@ -1,5 +1,5 @@
 # DiscordCrasher-OP
-A Tool to create videos that reboots peoples discord client.
+A Tool to create videos that reboots your "victims" discord clients.
 
 Get FFMPEG before downloading this 
 
